@@ -1,0 +1,6 @@
+{
+  "name": "استوديو المونتاج",
+  "description": "تطبيق مونتاج وصناعة فيديوهات احترافي مجهز بمؤثرات ألوان، تنقلات بصرية ومولد سيناريوهات ذكي بالذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
